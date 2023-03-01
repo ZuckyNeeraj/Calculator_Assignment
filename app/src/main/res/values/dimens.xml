@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Dimension values for phones -->
+    <dimen name="dimen_30_sp">30sp</dimen>
+    <dimen name="dimen_22_sp">20sp</dimen>
+
+    <!-- Dimension values for different densities -->
+    <dimen name="dimen_12_dp">12dp</dimen>
+
+</resources>
